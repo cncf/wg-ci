@@ -12,4 +12,6 @@ CNCF CI Working Group
 ## Members
 
 * Camille Fournier (@skamille) [LEAD]
+* Chris McClimans (@hh) [Hippie Hacker]
+* Denver Williams (@dlx)
 * TODO
