@@ -1,0 +1,23 @@
+== Fluentd CI Needs
+
+[Infrastructure Requirements from the Fluentd proposal](https://github.com/cncf/toc/blob/master/proposals/fluentd.adoc):
+
+CI and potentially CNCF Community Cluster access
+
+Goal: Improve
+    [current unit tests for all components of Fluentd](https://github.com/fluent/fluentd/tree/master/test)
+    with real deployments and critical loads over the different fluent
+    connectors.
+
+== Fluentd Dependencies
+
+*External Dependencies*: The dependencies can be found in the main gemspec for fluentd but are listed below: https://github.com/fluent/fluentd/blob/master/fluentd.gemspec
+
+* https://github.com/msgpack/msgpack-ruby (ASLv2)
+* https://github.com/frsyuki/sigdump (MIT)
+* https://github.com/tarcieri/cool.io (MIT)
+* https://github.com/tmm1/http_parser.rb (MIT)
+* https://github.com/nurse/strptime (BSD 2-clause)
+* http://tzinfo.github.io/ (MIT)
+* https://github.com/brianmario/yajl-ruby (MIT)
+* https://github.com/ruby-concurrency/thread_safe (ASLv2)
