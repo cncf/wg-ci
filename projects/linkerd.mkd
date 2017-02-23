@@ -1,0 +1,19 @@
+== Linkerd CI / Cluster Needs
+
+[Infrastructure Requirements from the Linkerd proposal](https://github.com/cncf/toc/blob/master/proposals/linkerd.adoc):
+
+CI and potentially CNCF Community Cluster access.
+
+Integration tests run per commit and periodic high-volume stress tests.
+(e.g. testing Kubernetes API integration) 
+
+== Linkerd Dependencies
+
+External Dependencies:
+
+Runtime:
+ [ ] JVM
+
+Build-time: 
+ [ ] Finagle
+ [ ] netty
