@@ -1,0 +1,34 @@
+== Prometheus CI / Cluster Needs
+
+[Infrastructure Requirements from the Prometheus proposal](https://github.com/cncf/toc/blob/master/proposals/prometheus.adoc):
+
+CI / CNCF Cluster access
+
+A partial list follows - project team is not 100% sure what is best / possible.
+
+CI - currently using free online services
+
+Infrastructure to allow integration testing of various components would be good.
+
+Other CNCF projects could test on their own infra, or Prometheus could test
+against CNCF projects using some shared infra (eg CNCF Cluster?).
+
+Access to 10-20 largeish machines for load-testing and large-scale tests would be useful.
+
+(Thinking more ambitiously: having the node exporter installed on every node in
+the Cluster would enable gathering of overall stats for utilisation).
+
+Some place to store sample data sets for benchmarking etc.
+We currently have one 200MB dataset and no good place to store it
+
+Website hosting for prometheus.io.
+Could move this off GitHub.
+Would be handy for SSL (currently using free Cloudflare account for that).
+
+
+
+
+
+
+
+
