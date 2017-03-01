@@ -16,4 +16,5 @@ CNCF CI Working Group
 * Chris McClimans (@hh) [Hippie Hacker]
 * Denver Williams (@dlx)
 * Jonathan Boulle (@jonboulle)
+* Clint Byrum (@spamaps)
 * TODO
