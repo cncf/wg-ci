@@ -1,0 +1,8 @@
+# gRPC CI / Cluster Needs
+
+[Infrastructure Requirements from the gRPC proposal](https://github.com/cncf/toc/blob/master/proposals/grpc.adoc):
+
+potentially CNCF Cluster access
+
+CI
+

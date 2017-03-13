@@ -1,4 +1,4 @@
-== Kubernetes CI Needs
+# Kubernetes CI Needs
 
 [Infrastructure Requirements from the Kubernetes proposal](https://github.com/cncf/toc/blob/master/proposals/kubernetes.adoc):
 
@@ -10,7 +10,7 @@ CI / CNCF Cluster requirements:
  [ ] Jenkins infrastructure (future)
  [ ] Azure testing (future)
 
-== Kubernetes Dependencies
+## Kubernetes Dependencies
 
 *External Dependencies*
 

@@ -1,4 +1,4 @@
-== Fluentd CI Needs
+# Fluentd CI Needs
 
 [Infrastructure Requirements from the Fluentd proposal](https://github.com/cncf/toc/blob/master/proposals/fluentd.adoc):
 
@@ -9,7 +9,9 @@ Goal: Improve
     with real deployments and critical loads over the different fluent
     connectors.
 
-== Fluentd Dependencies
+Uses [travis-ci](https://travis-ci.org/fluent/fluentd/builds) [configured](https://github.com/fluent/fluentd/blob/master/.travis.yml) to run [rake test](https://github.com/fluent/fluentd#run-test)
+
+## Fluentd Dependencies
 
 *External Dependencies*: The dependencies can be found in the main gemspec for fluentd but are listed below: https://github.com/fluent/fluentd/blob/master/fluentd.gemspec
 
