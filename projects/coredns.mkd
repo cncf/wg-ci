@@ -1,0 +1,5 @@
+= CoreDNS CI / Cluster Needs
+
+[Infrastructure Requirements from the CoreDNS proposal](https://github.com/cncf/toc/blob/master/proposals/coredns.adoc):
+
+N/A

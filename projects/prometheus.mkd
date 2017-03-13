@@ -1,4 +1,4 @@
-== Prometheus CI / Cluster Needs
+# Prometheus CI / Cluster Needs
 
 [Infrastructure Requirements from the Prometheus proposal](https://github.com/cncf/toc/blob/master/proposals/prometheus.adoc):
 

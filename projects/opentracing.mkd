@@ -1,10 +1,10 @@
-== OpenTracing CI Needs
+# OpenTracing CI Needs
 
 [Infrastructure Requirements from the OpenTracing proposal](https://github.com/cncf/toc/blob/master/proposals/opentracing.adoc):
 
 CI and potentially CNCF Community Cluster access
 
-== OpenTracing Dependencies
+## OpenTracing Dependencies
 
 Really very little. The core OpenTracing libraries are facade APIs and thus only
 bring in dependencies that are needed to describe various function parameters
