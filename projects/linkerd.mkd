@@ -5,15 +5,88 @@
 CI and potentially CNCF Community Cluster access.
 
 Integration tests run per commit and periodic high-volume stress tests.
-(e.g. testing Kubernetes API integration) 
+(e.g. testing Kubernetes API integration)
 
 ## Linkerd Dependencies
 
 External Dependencies:
 
 Runtime:
- [ ] JVM
+- [ ] JVM
 
-Build-time: 
- [ ] Finagle
- [ ] netty
+Build-time:
+- [ ] Finagle
+- [ ] netty
+
+## Current State
+
+### Public CircleCI
+
+[![CircleCI](https://circleci.com/gh/linkerd/linkerd/tree/master.svg?style=shield&circle-token=06d80fc52dbaeaac316d09b7ad4ada6f7d2bf31f)](https://circleci.com/gh/linkerd/linkerd)
+
+* Runs on every commit
+* [CircleCI Dashboard](https://circleci.com/gh/linkerd/linkerd)
+* [circle.yml](https://github.com/linkerd/linkerd/blob/master/circle.yml)
+
+### Private CI for Integration Testing
+
+This is a set of custom Kubernetes configs to launch and evaluate linkerd in
+various configurations. This work could be open sourced.
+
+![linkerd integration](http://i.imgur.com/4dWNlYK.png "linkerd integration")
+
+* Runs on GCloud / Kubernetes
+* Uses [slow_cooker](https://github.com/BuoyantIO/slow_cooker) for load
+* Prometheus for data collection
+* Grafana dashboard for evaluating results
+
+Integration testing for:
+* HTTP/1.1
+* linker-to-linker daemonsets
+* daemonset & localnode transformers
+* client/server static TLS
+* client/server netty3/netty4
+* p2c and ewma load balancers
+* namerd interpreter
+* gRPC
+* linker-to-linker no TLS sidecar
+* h2 header path
+* telemetry admin metrics, tracelog, recentRequests
+* prometheus metrics endpoint
+* linkerd without namerd interpreter
+* response classifiers/retries
+* linkerd-to-linkerd TLS: bound path
+* http path identifier
+* thrift mux
+* linker-to-linker daemonsets
+* daemonset & localnode transformers
+* aperture and heap load balancers
+
+### Private CircleCI for Stress Testing
+
+![linkerd stackdriver](http://i.imgur.com/ZCpXALN.png "linkerd stackdriver")
+
+* Runs daily, records performance of linkerd master over time
+* Records data to Google Stackdriver
+
+## Proposed CI Requirements
+
+### Integration testing
+
+Reproduce an integration test environment similar to the existing one mentioned
+above, but open sourced and running on CNCF's cluster.
+
+Note that linkerd integrates with several CNCF projects. An ideal goal is
+automated testing with all possible integrations:
+
+* Kubernetes
+* Prometheus
+* gRPC
+* OpenTracing
+
+### Stress testing
+
+Reproduce a stress test environment similar to the existing one mentioned above,
+but open sourced and running on CNCF's cluster. Persisting performance
+benchmarks over time is a requirement. This could be recorded daily, on every
+master commit, or every commit.
