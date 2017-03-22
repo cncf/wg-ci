@@ -17,4 +17,6 @@ CNCF CI Working Group
 * Denver Williams (@dlx)
 * Jonathan Boulle (@jonboulle)
 * Clint Byrum (@spamaps)
+* Quinton Hoole (@quintonhoole)
+* Quanyi Ma (@genedna)
 * TODO
