@@ -19,4 +19,5 @@ CNCF CI Working Group
 * Clint Byrum (@spamaps)
 * Quinton Hoole (@quintonhoole)
 * Quanyi Ma (@genedna)
+* Gianluca Arbezzano (@gianarb)
 * TODO
