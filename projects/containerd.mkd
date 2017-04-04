@@ -1,0 +1,23 @@
+# Containerd CI / Cluster Needs
+
+[Infrastructure Requirements from the containerd proposal](https://github.com/cncf/toc/blob/master/proposals/containerd.adoc):
+
+CI and potentially CNCF Community Cluster access.
+
+## External Dependencies
+
+* vendor - https://github.com/docker/containerd/blob/master/vendor.conf (exact version at time of this PR https://github.com/docker/containerd/blob/6089c1525b665876307d43fb94f9e8ed76eb40a1/vendor.conf)
+* Protobuf 
+* GRPC
+* Prometheus
+* OCI Runtime and Image Specifications
+
+## Current State
+
+### TravisCI
+
+.
+
+### Codecov
+
+.
