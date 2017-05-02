@@ -2,4 +2,14 @@
 
 [Infrastructure Requirements from the CoreDNS proposal](https://github.com/cncf/toc/blob/master/proposals/coredns.adoc):
 
-N/A
+## CI
+
+We are currently using Travis, but would like to add performance testing of PRs to prevent performance regressions. This
+requires additional VMs to query over live networks and test various proxy topologies.
+
+Additionally, periodic scale testing of the Kubernetes integration using a large Kubernetes cluster to simulate a
+realistic production deployment for Kubernetes service discovery.
+
+## Dependencies
+
+Build time: Go 1.7+, make
