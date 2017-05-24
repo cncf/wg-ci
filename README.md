@@ -21,3 +21,12 @@ CNCF CI Working Group
 * Quanyi Ma (@genedna)
 * Gianluca Arbezzano (@gianarb)
 * TODO
+
+## Meeting Time
+
+The CI Working Group meets on the 2nd and 4th Tuesday of every month at 8AM PT (USA Pacific):
+
+http://uberconference.com/cloudnative 
+Conference Number: +1-415-579-0198 No Pin Needed
+
+Here is a public Google calendar you can add the meetings to your calendar: https://goo.gl/eyutah
