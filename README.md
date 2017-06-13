@@ -20,6 +20,7 @@ CNCF CI Working Group
 * Quinton Hoole (@quintonhoole)
 * Quanyi Ma (@genedna)
 * Gianluca Arbezzano (@gianarb)
+* Leif Madsen (@leifmadsen)
 * TODO
 
 ## Meeting Time
