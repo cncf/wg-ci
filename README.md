@@ -37,4 +37,16 @@ Or Telephone:
     Meeting ID: 199 346 891
     International numbers available: https://zoom.us/zoomconference?m=HxTAatkwHHZsLKvblZp_B83n3DyNqTMe
     
-Here is a public Google calendar you can add the meetings to your calendar: https://goo.gl/eyutah
+NOTE: Please use *6 to mute/un-mute your phone during the call.
+    
+Next meeting: June 27
+    
+Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
+
+Here is a link to a World Time Zone Converter: https://github.com/kubernetes/community/blob/master/sig-cluster-ops/README.md#meetings
+
+## Meeting Minutes
+
+Minutes from the meeting may be found here: https://docs.google.com/document/d/1GJO5lyIC2FX7iB7fASxdaVp3xYYyix0W5sIanHUxjNg/edit
+
+Recordings of the meetings may be found here: https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA
