@@ -47,6 +47,6 @@ Here is a link to a World Time Zone Converter https://github.com/kubernetes/comm
 
 ## Meeting Minutes
 
-Minutes from the meeting may be found here: https://docs.google.com/document/d/1GJO5lyIC2FX7iB7fASxdaVp3xYYyix0W5sIanHUxjNg/edit
+Minutes from the meeting may be found [here] https://docs.google.com/document/d/1GJO5lyIC2FX7iB7fASxdaVp3xYYyix0W5sIanHUxjNg/edit
 
-Recordings of the meetings may be found here: https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA
+Recordings of the meetings may be found [here] https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA
