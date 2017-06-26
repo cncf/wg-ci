@@ -26,7 +26,15 @@ CNCF CI Working Group
 
 The CI Working Group meets on the 2nd and 4th Tuesday of every month at 8AM PT (USA Pacific):
 
-http://uberconference.com/cloudnative 
-Conference Number: +1-415-579-0198 No Pin Needed
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/199346891
 
+Or iPhone one-tap (US Toll):  +16465588656,199346891# or +14086380968,199346891#
+
+Or Telephone:
+    Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll)
+    +1 855 880 1246 (US Toll Free)
+    +1 877 369 0926 (US Toll Free)
+    Meeting ID: 199 346 891
+    International numbers available: https://zoom.us/zoomconference?m=HxTAatkwHHZsLKvblZp_B83n3DyNqTMe
+    
 Here is a public Google calendar you can add the meetings to your calendar: https://goo.gl/eyutah
