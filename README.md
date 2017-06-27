@@ -43,7 +43,7 @@ NOTE: Please use *6 to mute/un-mute your phone during the call.
     
 Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
 
-Here is a link to a World Time Zone Converter https://github.com/kubernetes/community/blob/master/sig-cluster-ops/README.md#meetings
+Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.com/?t=20:00&tz=UTC
 
 ## Meeting Minutes
 
