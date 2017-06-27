@@ -49,4 +49,4 @@ Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.co
 
 Minutes from the meeting may be found [here](https://docs.google.com/document/d/1GJO5lyIC2FX7iB7fASxdaVp3xYYyix0W5sIanHUxjNg/edit)
 
-Recordings of the meetings may be found [here](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA)
+Recordings of the meetings may be found [here](http://www.thetimezoneconverter.com/?t=8:00%20a.m.%20&tz=San%20Francisco&)
