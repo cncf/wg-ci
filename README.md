@@ -46,8 +46,10 @@ Here is a public Google calendar so you can add the meetings to your calendar: h
 
 Here is a link to a World Time Zone Converter http://www.thetimezoneconverter.com/?t=8:00%20a.m.%20&tz=San%20Francisco&
 
-## Meeting Minutes
+## Agenda and Meeting Notes
 
-Minutes from the meeting may be found [here](https://docs.google.com/document/d/1GJO5lyIC2FX7iB7fASxdaVp3xYYyix0W5sIanHUxjNg/edit)
+The Upcoming Agenda and Meeting Notes may be found [here](http://tinyurl.com/cncf-ci-wg-notes)
 
-Recordings of the meetings may be found [here](http://www.thetimezoneconverter.com/?t=8:00%20a.m.%20&tz=San%20Francisco&)
+## Recordings of Previous Meetings
+
+* June 27 2017 - [initial cross-cloud and containerops demos](https://youtu.be/Jc5EJVK7ZZk?t=307)
