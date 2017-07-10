@@ -39,7 +39,8 @@ Or Telephone:
     
 NOTE: Please use *6 to mute/un-mute your phone during the call.
     
-**Next meeting: June 27**
+**July 11 meeting is canceled.** 
+**Next meeting: July 25**
     
 Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
 
