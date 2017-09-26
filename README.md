@@ -15,6 +15,8 @@ CNCF CI Working Group
 * Camille Fournier (@skamille) [LEAD]
 * Chris McClimans (@hh) [Hippie Hacker]
 * Denver Williams (@dlx)
+* Taylor Carpenter (@taylor)
+* Lucina Stricko (@lixuna)
 * Jonathan Boulle (@jonboulle)
 * Clint Byrum (@spamaps)
 * Quinton Hoole (@quintonhoole)
@@ -39,8 +41,7 @@ Or Telephone:
     
 NOTE: Please use *6 to mute/un-mute your phone during the call.
     
-**July 11 meeting is canceled.** 
-**Next meeting: July 25**
+**Next meeting: September 26th**
     
 Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
 
@@ -52,4 +53,5 @@ The Upcoming Agenda and Meeting Notes may be found [here](http://tinyurl.com/cnc
 
 ## Recordings of Previous Meetings
 
+* August 22, 2017 - [Cross-cloud updates including CI Dashboard design, terraform updates, quick start docs](https://youtu.be/TXZ151MRTpc?t=551)
 * June 27 2017 - [initial cross-cloud and containerops demos](https://youtu.be/Jc5EJVK7ZZk?t=307)
