@@ -4,25 +4,25 @@
 
 CI / CNCF Cluster requirements:
 
- [ ] Cluster time for Openstack and other self hosted testing
- [ ] GCE testing
- [ ] AWS testing
- [ ] Jenkins infrastructure (future)
- [ ] Azure testing (future)
+- [ ] Cluster time for Openstack and other self hosted testing
+- [ ] GCE testing
+- [ ] AWS testing
+- [ ] Jenkins infrastructure (future)
+- [ ] Azure testing (future)
 
 ## Kubernetes Dependencies
 
 *External Dependencies*
 
-* Godeps - various https://raw.githubusercontent.com/kubernetes/kubernetes/master/Godeps/LICENSES[https://raw.githubusercontent.com/kubernetes/kubernetes/master/Godeps/LICENSES]
-* third_party - https://github.com/kubernetes/kubernetes/tree/master/third_party/[https://github.com/kubernetes/kubernetes/tree/master/third_party/]
+* Godeps - various https://raw.githubusercontent.com/kubernetes/kubernetes/master/Godeps/LICENSES
+* third_party - https://github.com/kubernetes/kubernetes/tree/master/third_party/
 * forked
- ** Etcd - Apache v 2.0 https://github.com/coreos/go-etcd/blob/master/LICENSE[https://github.com/coreos/go-etcd/blob/master/LICENSE]
-  ** JSON - BSD https://github.com/kubernetes/kubernetes/blob/master/third_party/forked/json/LICENSE[https://github.com/kubernetes/kubernetes/blob/master/third_party/forked/json/LICENSE]
-   ** Reflect - BSD https://github.com/kubernetes/kubernetes/blob/master/third_party/forked/json/LICENSE[https://github.com/kubernetes/kubernetes/blob/master/third_party/forked/json/LICENSE]
-   * Golang - BSD https://github.com/kubernetes/kubernetes/blob/master/third_party/golang/LICENSE[https://github.com/kubernetes/kubernetes/blob/master/third_party/golang/LICENSE]
-   * htpasswd - BSD https://github.com/kubernetes/kubernetes/blob/master/third_party/htpasswd/COPYING[https://github.com/kubernetes/kubernetes/blob/master/third_party/htpasswd/COPYING]
-   * intemp - Apache v2.0 https://github.com/kubernetes/kubernetes/blob/master/third_party/intemp/LICENSE[https://github.com/kubernetes/kubernetes/blob/master/third_party/intemp/LICENSE]
-   * pause - MIT https://github.com/kubernetes/kubernetes/blob/master/third_party/pause/LICENSE[https://github.com/kubernetes/kubernetes/blob/master/third_party/pause/LICENSE]
-   * Protobuf -  MIT https://github.com/google/protobuf/blob/master/LICENSE
-   * Swagger-ui - Apache v2.0 https://github.com/kubernetes/kubernetes/blob/master/third_party/swagger-ui/LICENSE
+   * Etcd - Apache v 2.0 https://github.com/coreos/go-etcd/blob/master/LICENSE
+   * JSON - BSD https://github.com/kubernetes/kubernetes/blob/master/third_party/forked/json/LICENSE
+   * Reflect - BSD https://github.com/kubernetes/kubernetes/blob/master/third_party/forked/json/LICENSE
+* Golang - BSD https://github.com/kubernetes/kubernetes/blob/master/third_party/golang/LICENSE
+* htpasswd - BSD https://github.com/kubernetes/kubernetes/blob/master/third_party/htpasswd/COPYING
+* intemp - Apache v2.0 https://github.com/kubernetes/kubernetes/blob/master/third_party/intemp/LICENSE
+* pause - MIT https://github.com/kubernetes/kubernetes/blob/master/third_party/pause/LICENSE
+* Protobuf -  MIT https://github.com/google/protobuf/blob/master/LICENSE
+* Swagger-ui - Apache v2.0 https://github.com/kubernetes/kubernetes/blob/master/third_party/swagger-ui/LICENSE
