@@ -26,7 +26,7 @@ CNCF CI Working Group
 
 ## Meeting Time
 
-The CI Working Group meets on the 2nd and 4th Tuesday of every month at 8AM PT (USA Pacific):
+The CI Working Group meets on the 4th Tuesday of every month at 8AM PT (USA Pacific):
 
 Agenda and Notes: http://tinyurl.com/cncf-ci-wg-notes
 
@@ -49,7 +49,7 @@ NOTE: Please use *6 to mute/un-mute your phone during the call.
 World Time Zone Converter: http://www.thetimezoneconverter.com/?t=9:00%20am&tz=San%20Francisco&
     
 
-**Next meeting: Tuesday, January 23rd, 2018**
+**Next meeting: Tuesday, May 22nd, 2018**
     
 Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
 
