@@ -70,5 +70,4 @@ Mailto:cncf-ci-public@lists.cncf.io
 
 ## Recordings of Previous Meetings
 
-* August 22, 2017 - [Cross-cloud updates including CI Dashboard design, terraform updates, quick start docs](https://youtu.be/TXZ151MRTpc?t=551)
-* June 27 2017 - [initial cross-cloud and containerops demos](https://youtu.be/Jc5EJVK7ZZk?t=307)
+You can find all recordings in [the CNCF CI WG playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2P3_A3ujWHSxOu1IO_bd7Zi).
