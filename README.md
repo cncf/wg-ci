@@ -72,3 +72,8 @@ Mailto:cncf-ci-public@lists.cncf.io
 ## Recordings of Previous Meetings
 
 You can find all recordings in [the CNCF CI WG playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2P3_A3ujWHSxOu1IO_bd7Zi).
+
+
+## Presentations from Previous Meetings
+
+You can find slides from previous presentations on [@crosscloudci](https://github.com/crosscloudci/crosscloudci#past).
