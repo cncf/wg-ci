@@ -50,7 +50,7 @@ NOTE: Please use *6 to mute/un-mute your phone during the call.
 World Time Zone Converter: http://www.thetimezoneconverter.com/?t=9:00%20am&tz=San%20Francisco&
     
 
-**Next meeting: Tuesday, June 26th, 2018**
+**Next meeting: Tuesday, July 24th, 2018**
     
 Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
 
