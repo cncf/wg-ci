@@ -10,9 +10,9 @@ CNCF CI Working Group
 * We need to scope what features this system will provide; there is some concern around trying to promise testing the full cross-product of integration with all of the different CNCF projects 
 * We want to come away with a recommendation for staffing to support building out this initiative given project needs and desired SLA
 
-## Release Notes
+## Status Dashboard Release Notes
 
-* You can find details from CI WG releases on [@crosscloudci](https://github.com/crosscloudci/crosscloudci/wiki/Release-Notes)
+* You can find details for [cncf.ci](https://cncf.ci/) releases on [@crosscloudci](https://github.com/crosscloudci/crosscloudci/wiki/Release-Notes)
 
 ## Members
 
