@@ -10,6 +10,10 @@ CNCF CI Working Group
 * We need to scope what features this system will provide; there is some concern around trying to promise testing the full cross-product of integration with all of the different CNCF projects 
 * We want to come away with a recommendation for staffing to support building out this initiative given project needs and desired SLA
 
+## Release Notes
+
+* You can find details from CI WG releases on [@crosscloudci](https://github.com/crosscloudci/crosscloudci/wiki/Release-Notes)
+
 ## Members
 
 * Camille Fournier (@skamille) [LEAD]
@@ -51,7 +55,7 @@ NOTE: Please use *6 to mute/un-mute your phone during the call.
 World Time Zone Converter: http://www.thetimezoneconverter.com/?t=9:00%20am&tz=San%20Francisco&
     
 
-**Next meeting: Tuesday, August 28th, 2018**
+**Next meeting: Tuesday, September 25th, 2018**
     
 Here is a public Google calendar so you can add the meetings to your calendar: https://goo.gl/eyutah
 
