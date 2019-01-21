@@ -27,6 +27,7 @@ CNCF CI Working Group
 * Quinton Hoole (@quintonhoole)
 * Quanyi Ma (@genedna)
 * Gianluca Arbezzano (@gianarb)
+* Ed Vielmetti (@vielmetti)
 * TODO
 
 ## Meeting Time
