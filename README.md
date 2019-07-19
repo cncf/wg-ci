@@ -32,10 +32,9 @@ CNCF CI Working Group
 
 ## Meeting Time
 
-The CI Working Group meets on the 4th Tuesday of every month at 11AM PT (USA Pacific):
- - Start time updated on July 18th per poll: https://doodle.com/poll/hxkxbfi9s4dcqvr6 
+The CI Working Group meets on the 4th Tuesday of every month at 12PM PT (USA Pacific)
 
-## Next meeting: [F2F CI-WG at KubeCon+CloudNativeCon EU (May 20-23, 2019)](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/)
+## Next meeting: Tuesday, July 23rd at 12PM PT
 
 Agenda and Notes: http://tinyurl.com/cncf-ci-wg-notes
 
