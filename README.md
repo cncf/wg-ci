@@ -34,7 +34,7 @@ CNCF CI Working Group
 
 The CI Working Group meets on the 4th Tuesday of every month at 12PM PT (USA Pacific)
 
-## Next meeting: Tuesday, July 23rd at 12PM PT
+## Next meeting: Tuesday, August 27, 2019 at 12PM PT
 
 Agenda and Notes: http://tinyurl.com/cncf-ci-wg-notes
 
