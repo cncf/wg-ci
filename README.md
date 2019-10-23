@@ -34,8 +34,9 @@ CNCF CI Working Group
 
 The CI Working Group meets on the 4th Tuesday of every month at 12PM PT (USA Pacific)
 
-## Next meeting: Tuesday, October 22, 2019 at 12PM PT
-- Note: CI Working Group call on Tuesday, September 24 is cancelled due to conflict with [Open Networking Summit EU](https://events.linuxfoundation.org/events/open-networking-summit-europe-2019/)
+## Next meeting: TBD 
+- Note: CI Working Group calls on Tuesday, Nov 26 and Tuesday, Dec 24 are cancelled due to holiday.
+- Next meeting may be rescheduled to first week of December 2019 (TBD)
 
 Agenda and Notes: http://tinyurl.com/cncf-ci-wg-notes
 
