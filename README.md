@@ -34,9 +34,8 @@ CNCF CI Working Group
 
 The CI Working Group meets on the 4th Tuesday of every month at 12PM PT (USA Pacific)
 
-## Next meeting: TBD 
-- Note: CI Working Group calls on Tuesday, Nov 26 and Tuesday, Dec 24 are cancelled due to holiday.
-- Next meeting may be rescheduled to first week of December 2019 (TBD)
+## Next meeting: Tuesday, January 28th, 2020 
+- Note: CI Working Group calls on Tuesday, Nov 26 and Tuesday, Dec 24 are cancelled due to holiday
 
 Agenda and Notes: http://tinyurl.com/cncf-ci-wg-notes
 
