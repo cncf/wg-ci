@@ -12,27 +12,26 @@ CNCF CI Working Group
 
 ## Status Dashboard Release Notes
 
-* You can find details for [cncf.ci](https://cncf.ci/) releases on [@crosscloudci](https://github.com/crosscloudci/crosscloudci/wiki/Release-Notes)
+* You can evolving details at [cncf.ci](https://cncf.ci/brief)
 
 ## Members
 
 * Camille Fournier (@skamille) [LEAD]
+* Hippie Hacker (@hh)
 * Denver Williams (@denverwilliams)
 * Taylor Carpenter (@taylor)
 * Lucina Stricko (@lixuna)
 * W. Watson (@wavell)
-* Chris McClimans (@hh) [Hippie Hacker]
 * Jonathan Boulle (@jonboulle)
 * Clint Byrum (@spamaps)
 * Quinton Hoole (@quintonhoole)
 * Quanyi Ma (@genedna)
 * Gianluca Arbezzano (@gianarb)
 * Ed Vielmetti (@vielmetti)
-* TODO
 
 ## Meeting Time
 
-The CI Working Group meets on the 4th Tuesday of every month at 12PM PT (USA Pacific)
+The CI Working Group meets TBD
 
 ## Next meeting: Tuesday, April 28th, 2020 
 
