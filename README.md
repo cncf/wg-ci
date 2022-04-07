@@ -68,10 +68,11 @@ The Upcoming Agenda and Meeting Notes may be found [here](http://tinyurl.com/cnc
 
 ## CNCF CI Public Discusion
 
-Here is a link to the CNCF CI Public Discussion: https://lists.cncf.io/g/cncf-ci-public
+### Here is a link to the CNCF CI Public Discussion: https://lists.cncf.io/g/cncf-ci-public
 
 Mailto:cncf-ci-public@lists.cncf.io
 
+### #cncf-ci slack channel on slack.cncf.io
 
 ## Recordings of Previous Meetings
 
